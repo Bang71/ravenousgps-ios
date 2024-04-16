@@ -1,14 +1,14 @@
 //
-//  ravenousgps_iosTests.swift
-//  ravenousgps-iosTests
+//  ravenousgpsTests.swift
+//  ravenousgpsTests
 //
-//  Created by 신병기 on 4/2/24.
+//  Created by 신병기 on 4/15/24.
 //
 
 import XCTest
-@testable import ravenousgps_ios
+@testable import ravenousgps
 
-final class ravenousgps_iosTests: XCTestCase {
+final class ravenousgpsTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

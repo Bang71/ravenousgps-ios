@@ -1,13 +1,13 @@
 //
-//  ravenousgps_iosUITestsLaunchTests.swift
-//  ravenousgps-iosUITests
+//  ravenousgpsUITestsLaunchTests.swift
+//  ravenousgpsUITests
 //
-//  Created by 신병기 on 4/2/24.
+//  Created by 신병기 on 4/15/24.
 //
 
 import XCTest
 
-final class ravenousgps_iosUITestsLaunchTests: XCTestCase {
+final class ravenousgpsUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
